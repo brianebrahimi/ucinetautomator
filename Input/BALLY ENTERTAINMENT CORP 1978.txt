@@ -1,0 +1,13 @@
+dl n=3 format = edgelist1
+labels embedded
+data:
+		
+337	337	123
+337	521CI	1
+337	713	0
+713	337	1
+713	521CI	3
+713	713	13
+521CI	337	276
+521CI	521CI	7031
+521CI	713	219

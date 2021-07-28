@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+335	333	9007
+335	335	8439
+333	333	21489
+333	335	1400

@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+42	42	44649
+42	514	NA
+514	42	4404
+514	514	17463

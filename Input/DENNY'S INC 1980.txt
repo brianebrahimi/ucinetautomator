@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+722	42	4470
+722	722	87
+42	42	6471
+42	722	4650

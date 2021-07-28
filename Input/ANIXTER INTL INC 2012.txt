@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+42	42	34032
+42	5412OP	NA
+5412OP	42	92406
+5412OP	5412OP	91749

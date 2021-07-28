@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+523	22	776
+523	523	45863
+22	22	32087
+22	523	903

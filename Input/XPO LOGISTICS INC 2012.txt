@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+487OS	487OS	25376
+487OS	5412OP	6147
+5412OP	487OS	1930
+5412OP	5412OP	91749

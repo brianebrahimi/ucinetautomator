@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+HS	523	NA
+HS	HS	NA
+523	523	21650
+523	HS	9

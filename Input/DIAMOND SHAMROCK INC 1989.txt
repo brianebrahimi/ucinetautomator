@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+324	324	7945
+324	42	1306
+42	324	5857
+42	42	10626

@@ -1,0 +1,5 @@
+dl n=1 format = edgelist1
+labels embedded
+data:
+		
+335	335	8439

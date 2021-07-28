@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+339	339	3044
+339	523	38
+523	339	23
+523	523	7542

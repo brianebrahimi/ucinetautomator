@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+486	326	14
+486	486	1059
+326	326	9573
+326	486	64

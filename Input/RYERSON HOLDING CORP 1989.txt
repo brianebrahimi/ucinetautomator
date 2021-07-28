@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+331	331	37202
+331	42	168
+42	331	7448
+42	42	10626

@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+327	211	350
+327	327	5425
+211	211	4591
+211	327	NA

@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+332	332	26649
+332	5415	206
+5415	332	480
+5415	5415	1726

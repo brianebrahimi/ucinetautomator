@@ -1,0 +1,13 @@
+dl n=3 format = edgelist1
+labels embedded
+data:
+		
+482	482	24
+482	483	NA
+482	487OS	22
+483	482	NA
+483	483	NA
+483	487OS	NA
+487OS	482	609
+487OS	483	2341
+487OS	487OS	8512

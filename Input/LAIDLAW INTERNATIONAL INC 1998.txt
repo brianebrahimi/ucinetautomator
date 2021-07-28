@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+485	485	NA
+485	621	597
+621	485	NA
+621	621	10163

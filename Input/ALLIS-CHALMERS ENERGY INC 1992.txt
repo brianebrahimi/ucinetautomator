@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+332	315AL	92
+332	332	16011
+315AL	315AL	10375
+315AL	332	32

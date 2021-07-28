@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+327	326	266
+327	327	3580
+326	326	1520
+326	327	195

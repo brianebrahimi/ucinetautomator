@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+311FT	113FF	146
+311FT	311FT	51100
+113FF	113FF	4220
+113FF	311FT	2727

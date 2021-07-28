@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+482	482	20
+482	523	4
+523	482	509
+523	523	36721

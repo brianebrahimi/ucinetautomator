@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+322	322	36285
+322	325	5358
+325	322	7786
+325	325	89990

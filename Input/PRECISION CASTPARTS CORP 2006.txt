@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+331	331	79568
+331	3364OT	10223
+3364OT	331	NA
+3364OT	3364OT	37541

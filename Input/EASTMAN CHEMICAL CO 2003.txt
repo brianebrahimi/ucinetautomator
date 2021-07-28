@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+325	325	132738
+325	523	208
+523	325	85
+523	523	47553

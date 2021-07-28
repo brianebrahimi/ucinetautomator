@@ -1,0 +1,13 @@
+dl n=3 format = edgelist1
+labels embedded
+data:
+		
+22	22	85
+22	325	7498
+22	532RL	361
+532RL	22	226
+532RL	325	878
+532RL	532RL	472
+325	22	318
+325	325	46063
+325	532RL	113

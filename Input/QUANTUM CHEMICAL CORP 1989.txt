@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+325	325	75865
+325	621	5202
+621	325	NA
+621	621	6524

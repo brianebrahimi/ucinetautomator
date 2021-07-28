@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+532RL	521CI	2728
+532RL	532RL	472
+521CI	521CI	17553
+521CI	532RL	2286

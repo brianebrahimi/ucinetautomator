@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+326	211	21
+326	326	7046
+211	211	3067
+211	326	NA

@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+3361MV	3361MV	66598
+3361MV	521CI	35
+521CI	3361MV	2015
+521CI	521CI	19352

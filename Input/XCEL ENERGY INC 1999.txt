@@ -1,0 +1,13 @@
+dl n=3 format = edgelist1
+labels embedded
+data:
+		
+22	22	17953
+22	5412OP	2984
+22	HS	8
+5412OP	22	9299
+5412OP	5412OP	66782
+5412OP	HS	977
+HS	22	NA
+HS	5412OP	NA
+HS	HS	NA

@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+486	324	NA
+486	486	NA
+324	324	4666
+324	486	23

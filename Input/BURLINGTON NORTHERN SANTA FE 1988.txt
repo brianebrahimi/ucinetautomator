@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+482	482	76
+482	484	147
+484	482	86
+484	484	15372

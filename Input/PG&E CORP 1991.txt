@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+22	22	128
+22	486	174
+486	22	3839
+486	486	920

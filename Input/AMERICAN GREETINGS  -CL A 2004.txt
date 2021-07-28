@@ -1,0 +1,13 @@
+dl n=3 format = edgelist1
+labels embedded
+data:
+		
+511	339	45
+511	4A0	492
+511	511	20903
+4A0	339	NA
+4A0	4A0	235
+4A0	511	NA
+339	339	8194
+339	4A0	797
+339	511	22

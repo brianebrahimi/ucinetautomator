@@ -1,0 +1,13 @@
+dl n=3 format = edgelist1
+labels embedded
+data:
+		
+4A0	42	NA
+4A0	4A0	179
+4A0	562	NA
+42	42	27496
+42	4A0	6364
+42	562	50
+562	42	2009
+562	4A0	1339
+562	562	7810

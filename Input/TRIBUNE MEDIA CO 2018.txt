@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+711AS	513	24248
+711AS	711AS	19636
+513	513	109186
+513	711AS	472

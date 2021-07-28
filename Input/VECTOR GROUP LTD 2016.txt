@@ -1,0 +1,13 @@
+dl n=3 format = edgelist1
+labels embedded
+data:
+		
+HS	311FT	NA
+HS	334	NA
+HS	HS	NA
+311FT	311FT	212153
+311FT	334	NA
+311FT	HS	NA
+334	311FT	3387
+334	334	28790
+334	HS	230

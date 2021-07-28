@@ -1,0 +1,13 @@
+dl n=3 format = edgelist1
+labels embedded
+data:
+		
+42	42	11803
+42	482	749
+42	532RL	465
+532RL	42	4665
+532RL	482	564
+532RL	532RL	1795
+482	42	209
+482	482	73
+482	532RL	16

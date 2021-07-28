@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+621	562	NA
+621	621	10163
+562	562	5455
+562	621	756

@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+5415	335	82
+5415	5415	3831
+335	335	8449
+335	5415	730

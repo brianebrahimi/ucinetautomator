@@ -1,0 +1,13 @@
+dl n=3 format = edgelist1
+labels embedded
+data:
+		
+327	327	8074
+327	532RL	65
+327	621	794
+621	327	NA
+621	532RL	NA
+621	621	7763
+532RL	327	326
+532RL	532RL	2128
+532RL	621	4124

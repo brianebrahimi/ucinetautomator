@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+213	213	111
+213	524	NA
+524	213	19
+524	524	89472

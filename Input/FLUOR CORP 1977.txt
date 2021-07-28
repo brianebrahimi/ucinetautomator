@@ -1,0 +1,13 @@
+dl n=3 format = edgelist1
+labels embedded
+data:
+		
+213	213	NA
+213	42	NA
+213	523	NA
+523	213	0
+523	42	21
+523	523	108
+42	213	342
+42	42	2600
+42	523	28

@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+3364OT	3364OT	12066
+3364OT	337	NA
+337	3364OT	168
+337	337	123

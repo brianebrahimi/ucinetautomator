@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+523	523	36086
+523	721	2190
+721	523	3273
+721	721	386

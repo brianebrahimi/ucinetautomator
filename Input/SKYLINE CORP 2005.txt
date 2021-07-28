@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+321	321	32111
+321	3361MV	3219
+3361MV	321	1074
+3361MV	3361MV	172777

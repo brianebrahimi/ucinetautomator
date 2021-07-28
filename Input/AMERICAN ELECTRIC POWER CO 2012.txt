@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+22	22	26517
+22	483	87
+483	22	4
+483	483	NA

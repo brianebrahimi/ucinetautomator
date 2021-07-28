@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+213	213	NA
+213	331	NA
+331	213	3373
+331	331	21965

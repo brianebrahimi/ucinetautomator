@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+323	323	4729
+323	511	11170
+511	323	87
+511	511	15706

@@ -1,0 +1,13 @@
+dl n=3 format = edgelist1
+labels embedded
+data:
+		
+332	315AL	409
+332	332	37448
+332	42	1757
+42	315AL	199
+42	332	723
+42	42	22095
+315AL	315AL	6124
+315AL	332	NA
+315AL	42	744

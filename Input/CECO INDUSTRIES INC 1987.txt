@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+562	332	508
+562	562	2751
+332	332	12121
+332	562	288

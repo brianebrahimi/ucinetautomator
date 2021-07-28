@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+81	327	195
+81	81	1909
+327	327	5273
+327	81	310

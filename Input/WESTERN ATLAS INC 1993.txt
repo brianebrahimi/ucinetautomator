@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+5412OP	333	2437
+5412OP	5412OP	33993
+333	333	14628
+333	5412OP	635

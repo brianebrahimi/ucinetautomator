@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+721	721	514
+721	HS	405
+HS	721	NA
+HS	HS	NA

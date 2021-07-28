@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+486	211	321
+486	486	NA
+211	211	59313
+211	486	89

@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+514	514	1209
+514	523	1732
+523	514	161
+523	523	51752

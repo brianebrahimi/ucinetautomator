@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+211	211	4590
+211	3361MV	NA
+3361MV	211	79
+3361MV	3361MV	73647

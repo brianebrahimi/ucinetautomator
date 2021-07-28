@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+322	322	30803
+322	487OS	60
+487OS	322	74
+487OS	487OS	4181

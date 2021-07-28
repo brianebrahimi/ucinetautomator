@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+325	311FT	1882
+325	325	29361
+311FT	311FT	34663
+311FT	325	1145

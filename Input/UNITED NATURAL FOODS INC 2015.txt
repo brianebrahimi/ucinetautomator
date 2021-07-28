@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+42	42	41586
+42	445	372
+445	42	NA
+445	445	NA

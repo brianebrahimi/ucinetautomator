@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+322	322	13743
+322	512	1
+512	322	NA
+512	512	3091

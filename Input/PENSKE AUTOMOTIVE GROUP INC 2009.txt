@@ -1,0 +1,13 @@
+dl n=3 format = edgelist1
+labels embedded
+data:
+		
+441	42	NA
+441	441	NA
+441	532RL	NA
+42	42	23414
+42	441	430
+42	532RL	7829
+532RL	42	11018
+532RL	441	159
+532RL	532RL	4397

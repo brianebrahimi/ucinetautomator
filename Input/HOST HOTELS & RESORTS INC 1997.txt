@@ -1,0 +1,13 @@
+dl n=3 format = edgelist1
+labels embedded
+data:
+		
+721	525	269
+721	623	159
+721	721	233
+623	525	NA
+623	623	NA
+623	721	NA
+525	525	3745
+525	623	NA
+525	721	NA

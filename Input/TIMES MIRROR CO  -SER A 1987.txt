@@ -1,0 +1,13 @@
+dl n=3 format = edgelist1
+labels embedded
+data:
+		
+511	113FF	6
+511	511	1882
+511	513	65
+513	113FF	6
+513	511	953
+513	513	23513
+113FF	113FF	3714
+113FF	511	3
+113FF	513	63

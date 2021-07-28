@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+212	211	28
+212	212	5410
+211	211	3437
+211	212	NA

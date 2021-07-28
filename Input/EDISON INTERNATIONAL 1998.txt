@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+22	22	13470
+22	561	1887
+561	22	1690
+561	561	16326

@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+212	212	5271
+212	331	8744
+331	212	190
+331	331	21965

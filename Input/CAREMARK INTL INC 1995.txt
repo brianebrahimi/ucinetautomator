@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+524	524	95702
+524	621	3777
+621	524	NA
+621	621	7724

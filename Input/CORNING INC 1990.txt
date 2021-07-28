@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+327	327	7663
+327	621	419
+621	327	NA
+621	621	6144

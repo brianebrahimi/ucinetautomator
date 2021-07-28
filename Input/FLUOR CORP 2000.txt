@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+42	42	18896
+42	561	42
+561	42	18028
+561	561	20025

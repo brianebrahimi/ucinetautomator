@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+722	721	115
+722	722	288
+721	721	63
+721	722	78

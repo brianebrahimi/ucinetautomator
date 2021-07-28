@@ -1,0 +1,13 @@
+dl n=3 format = edgelist1
+labels embedded
+data:
+		
+22	211	2643
+22	22	172
+22	311FT	4402
+211	211	4291
+211	22	27423
+211	311FT	NA
+311FT	211	7
+311FT	22	1
+311FT	311FT	49194

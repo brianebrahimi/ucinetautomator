@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+562	512	7
+562	562	1906
+512	512	6532
+512	562	NA

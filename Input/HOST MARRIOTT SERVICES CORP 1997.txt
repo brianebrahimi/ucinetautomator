@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+722	4A0	1369
+722	722	1158
+4A0	4A0	48
+4A0	722	NA

@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+5412OP	332	830
+5412OP	5412OP	2621
+332	332	8237
+332	5412OP	139

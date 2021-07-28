@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+337	337	83
+337	722	1
+722	337	51
+722	722	NA

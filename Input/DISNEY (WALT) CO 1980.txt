@@ -1,0 +1,13 @@
+dl n=3 format = edgelist1
+labels embedded
+data:
+		
+713	512	0
+713	532RL	3
+713	713	17
+512	512	3124
+512	532RL	NA
+512	713	0
+532RL	512	28
+532RL	532RL	201
+532RL	713	63

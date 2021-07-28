@@ -1,0 +1,13 @@
+dl n=3 format = edgelist1
+labels embedded
+data:
+		
+212	212	5781
+212	327	3922
+212	711AS	1
+327	212	131
+327	327	5273
+327	711AS	2
+711AS	212	5
+711AS	327	1
+711AS	711AS	3494

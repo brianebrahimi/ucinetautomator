@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+331	331	88791
+331	332	87047
+332	331	5938
+332	332	43047

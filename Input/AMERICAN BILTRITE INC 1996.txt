@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+326	326	11721
+326	42	4568
+42	326	8946
+42	42	18342

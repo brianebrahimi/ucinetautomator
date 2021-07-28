@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+334	334	99045
+334	61	795
+61	334	NA
+61	61	1581

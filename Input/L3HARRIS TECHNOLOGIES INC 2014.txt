@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+334	334	34832
+334	514	4777
+514	334	328
+514	514	7440

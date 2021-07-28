@@ -1,0 +1,13 @@
+dl n=3 format = edgelist1
+labels embedded
+data:
+		
+711AS	42	533
+711AS	445	204
+711AS	711AS	8687
+42	42	18530
+42	445	272
+42	711AS	NA
+445	42	NA
+445	445	NA
+445	711AS	NA

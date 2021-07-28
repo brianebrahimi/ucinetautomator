@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+22	22	12635
+22	562	191
+562	22	462
+562	562	7202

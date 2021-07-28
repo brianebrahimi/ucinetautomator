@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+5415	42	5048
+5415	5415	3830
+42	42	22095
+42	5415	325

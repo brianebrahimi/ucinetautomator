@@ -1,0 +1,13 @@
+dl n=3 format = edgelist1
+labels embedded
+data:
+		
+213	213	NA
+213	487OS	NA
+213	561	NA
+561	213	29
+561	487OS	67
+561	561	299
+487OS	213	44
+487OS	487OS	2977
+487OS	561	5

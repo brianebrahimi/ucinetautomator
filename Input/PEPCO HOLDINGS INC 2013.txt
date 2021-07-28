@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+81	22	757
+81	81	7984
+22	22	29067
+22	81	4724

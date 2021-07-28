@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+337	313TT	1
+337	337	122
+313TT	313TT	13870
+313TT	337	1495

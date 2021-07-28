@@ -1,0 +1,13 @@
+dl n=3 format = edgelist1
+labels embedded
+data:
+		
+532RL	532RL	5895
+532RL	5411	1610
+532RL	HS	19
+HS	532RL	NA
+HS	5411	NA
+HS	HS	NA
+5411	532RL	791
+5411	5411	1342
+5411	HS	533

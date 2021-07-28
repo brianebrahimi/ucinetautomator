@@ -1,0 +1,13 @@
+dl n=3 format = edgelist1
+labels embedded
+data:
+		
+481	481	80
+481	532RL	179
+481	721	32
+721	481	23
+721	532RL	51
+721	721	25
+532RL	481	858
+532RL	532RL	472
+532RL	721	596

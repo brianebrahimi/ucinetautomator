@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+22	22	32087
+22	521CI	2877
+521CI	22	7182
+521CI	521CI	47127

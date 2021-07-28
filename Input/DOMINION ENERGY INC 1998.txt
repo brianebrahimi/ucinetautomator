@@ -1,0 +1,13 @@
+dl n=3 format = edgelist1
+labels embedded
+data:
+		
+22	211	621
+22	22	13470
+22	521CI	992
+211	211	8065
+211	22	34108
+211	521CI	NA
+521CI	211	288
+521CI	22	4574
+521CI	521CI	38532

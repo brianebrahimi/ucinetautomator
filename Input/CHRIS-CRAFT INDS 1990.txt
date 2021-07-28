@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+513	326	224
+513	513	20131
+326	326	6287
+326	513	449

@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+524	524	310940
+524	622	32779
+622	524	NA
+622	622	195

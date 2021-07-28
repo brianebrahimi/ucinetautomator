@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+HS	521CI	NA
+HS	HS	NA
+521CI	521CI	50563
+521CI	HS	56933

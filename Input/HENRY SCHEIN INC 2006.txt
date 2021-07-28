@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+42	42	22095
+42	511	1307
+511	42	762
+511	511	19989

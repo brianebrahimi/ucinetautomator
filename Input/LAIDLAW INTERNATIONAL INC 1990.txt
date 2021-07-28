@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+485	485	480
+485	562	19
+562	485	56
+562	562	3327

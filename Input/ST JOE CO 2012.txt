@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+523	523	35496
+523	721	2139
+721	523	2855
+721	721	364

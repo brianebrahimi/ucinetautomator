@@ -1,0 +1,13 @@
+dl n=3 format = edgelist1
+labels embedded
+data:
+		
+441	441	NA
+441	452	NA
+441	4A0	NA
+4A0	441	109
+4A0	452	55
+4A0	4A0	76
+452	441	NA
+452	452	NA
+452	4A0	NA

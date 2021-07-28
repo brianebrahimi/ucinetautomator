@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+315AL	315AL	6345
+315AL	4A0	213
+4A0	315AL	NA
+4A0	4A0	129

@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+324	324	12660
+324	484	4067
+484	324	363
+484	484	8620

@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+332	326	7912
+332	332	44295
+326	326	21896
+326	332	3060

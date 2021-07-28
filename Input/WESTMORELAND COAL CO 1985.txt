@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+42	42	6593
+42	482	764
+482	42	160
+482	482	79

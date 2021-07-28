@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+562	332	480
+562	562	3278
+332	332	13622
+332	562	348

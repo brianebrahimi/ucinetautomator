@@ -1,0 +1,13 @@
+dl n=3 format = edgelist1
+labels embedded
+data:
+		
+524	452	312
+524	4A0	1958
+524	524	100397
+452	452	NA
+452	4A0	NA
+452	524	NA
+4A0	452	55
+4A0	4A0	61
+4A0	524	NA

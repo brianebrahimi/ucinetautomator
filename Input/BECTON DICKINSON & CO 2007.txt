@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+339	334	24
+339	339	8929
+334	334	99138
+334	339	2581

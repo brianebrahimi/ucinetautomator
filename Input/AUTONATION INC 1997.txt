@@ -1,0 +1,13 @@
+dl n=3 format = edgelist1
+labels embedded
+data:
+		
+562	441	552
+562	532RL	187
+562	562	4880
+532RL	441	629
+532RL	532RL	2543
+532RL	562	419
+441	441	NA
+441	532RL	NA
+441	562	NA

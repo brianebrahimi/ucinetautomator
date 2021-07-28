@@ -1,0 +1,13 @@
+dl n=3 format = edgelist1
+labels embedded
+data:
+		
+212	212	4595
+212	487OS	3
+212	561	3
+487OS	212	51
+487OS	487OS	4906
+487OS	561	49
+561	212	122
+561	487OS	76
+561	561	2880

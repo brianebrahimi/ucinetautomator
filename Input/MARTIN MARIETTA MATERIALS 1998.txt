@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+212	212	3955
+212	327	6896
+327	212	237
+327	327	16364

@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+513	513	93173
+513	561	8190
+561	513	7374
+561	561	18968

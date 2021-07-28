@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+441	326	NA
+441	441	NA
+326	326	14798
+326	441	1343

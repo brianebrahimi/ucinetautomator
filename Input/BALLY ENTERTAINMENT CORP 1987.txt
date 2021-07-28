@@ -1,0 +1,13 @@
+dl n=3 format = edgelist1
+labels embedded
+data:
+		
+487OS	337	11
+487OS	487OS	3441
+487OS	713	385
+713	337	10
+713	487OS	58
+713	713	32
+337	337	291
+337	487OS	0
+337	713	1

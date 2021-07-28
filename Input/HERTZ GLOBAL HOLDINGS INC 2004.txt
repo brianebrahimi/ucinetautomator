@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+532RL	524	2810
+532RL	532RL	5244
+524	524	159633
+524	532RL	3499

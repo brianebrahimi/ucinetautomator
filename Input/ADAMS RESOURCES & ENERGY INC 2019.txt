@@ -1,0 +1,8 @@
+dl n=2 format = edgelist1
+labels embedded
+data:
+		
+484	42	3298
+484	484	5145
+42	42	44649
+42	484	91
