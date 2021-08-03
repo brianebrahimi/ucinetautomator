@@ -1,0 +1,3 @@
+data -> import -> text file -> DL -> press OK
+outputs ##D and ##H file
+network -> whole networks & cohesion -> clustering coefficients -> import ##H file -> output specific directory

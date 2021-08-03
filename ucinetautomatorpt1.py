@@ -3,7 +3,7 @@ from pywinauto.keyboard import send_keys
 import os
 import time
 
-input_list = os.listdir("C:\\Users\\Brian Ebrahimi\\Desktop\\Input")[3381:]
+#input_list = os.listdir("C:\\Users\\Brian Ebrahimi\\Desktop\\Input")
 
 app = Application(backend="uia").start("C:\\Program Files\\Analytic Technologies\\32bit\\Uci.exe")
 app.UCINETForWindowsVersion.type_keys("^i^c")
